@@ -1,4 +1,4 @@
-# trimmomatic_fq_process
+# trimmomatic_fq process
 
 The nextflow wrapper for the `trimmomatic` process.
 
